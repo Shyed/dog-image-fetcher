@@ -15,8 +15,8 @@ A simple Python CLI app that fetches a random dog image from the Dog CEO API. Op
 
 ## Sample Output
 === Dog Image Fetcher ===
-🐾 Fetching a random dog image...
-✅ API response received.
+Fetching a random dog image...
+API response received.
 
 Here’s a random dog image URL:
 https://images.dog.ceo/breeds/terrier-cairn/n02096177_11780.jpg
